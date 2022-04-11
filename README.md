@@ -15,3 +15,7 @@
 
   Obs: Em comparação aos projetos originais, adicionei diversos comentários explicativos para solidificar o meu aprendizado.
 
+- https://github.com/EullerHenrique/api-ms-postgresql
+
+- https://github.com/EullerHenrique/api-ms-mongodb
+
