@@ -21,13 +21,11 @@
 
 - https://github.com/EullerHenrique/api-ms-mongodb
 
-## Docker
+  ## Docker
+   - https://github.com/EullerHenrique/study_docker
 
-- https://github.com/EullerHenrique/study_docker
-
-## MongoDB
-
-- https://github.com/EullerHenrique/study_mongodb
+  ## MongoDB
+   - https://github.com/EullerHenrique/study_mongodb
 
 
 
