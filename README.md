@@ -15,8 +15,9 @@
 
   Obs: Em comparação aos projetos originais, adicionei diversos comentários explicativos para solidificar o meu aprendizado.
 
-- https://github.com/EullerHenrique/server_4096_requests
-
+- ### Multithread 
+  
+  - https://github.com/EullerHenrique/server_4096_requests
 
  - ### PostgreSQL
 
@@ -34,6 +35,10 @@
    
     - https://github.com/EullerHenrique/study_docker
 
-- https://github.com/EullerHenrique/api_pagamento
+- ### Teste Unitário
 
+  - https://github.com/EullerHenrique/api_pagamento
 
+- ### Kafka
+
+  - https://github.com/EullerHenrique/study_kafka
