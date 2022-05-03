@@ -22,14 +22,12 @@
  - ### PostgreSQL
 
     - https://github.com/EullerHenrique/api-ms-postgresql
-
-     - https://github.com/EullerHenrique/study_postgresql
+    - https://github.com/EullerHenrique/study_postgresql
 
   - ### MongoDB
 
     - https://github.com/EullerHenrique/api-ms-mongodb
-
-     - https://github.com/EullerHenrique/study_mongodb
+    - https://github.com/EullerHenrique/study_mongodb
   
   - ### Docker
    
@@ -40,5 +38,5 @@
   - https://github.com/EullerHenrique/api_pagamento
 
 - ### Kafka
-
+  - https://github.com/EullerHenrique/eccomerce
   - https://github.com/EullerHenrique/study_kafka
