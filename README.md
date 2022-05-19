@@ -28,7 +28,8 @@
  - ### PostgreSQL
 
     - https://github.com/EullerHenrique/api-ms-postgresql
-    - https://github.com/EullerHenrique/study_postgresql
+    - https://github.com/EullerHenrique/BD1
+    - https://github.com/EullerHenrique/BD2
 
   - ### MongoDB
 
