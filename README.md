@@ -46,6 +46,7 @@
 
 - ### Kafka
   - https://github.com/EullerHenrique/eccomerce
+  - https://github.com/EullerHenrique/eccomerse_v2
   - https://github.com/EullerHenrique/study_kafka
 
 - ### KeyCloack
