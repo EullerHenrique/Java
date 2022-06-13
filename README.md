@@ -51,7 +51,6 @@
 
 - ### KeyCloack
   - https://github.com/EullerHenrique/login
-  - https://github.com/EullerHenrique/study_keycloak
 
 - ### STFP
   - https://github.com/EullerHenrique/protocol-sftp
