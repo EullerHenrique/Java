@@ -55,7 +55,6 @@
 
 - ### STFP
   - https://github.com/EullerHenrique/protocol-sftp
-  - https://github.com/EullerHenrique/study_sftp
 
 - ### Apache Camel/SFTP
   - https://github.com/EullerHenrique/apache-camel_sftp 
