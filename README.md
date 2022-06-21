@@ -59,5 +59,6 @@
   - https://github.com/EullerHenrique/apache-camel_sftp 
  
 - ### Redis
+  - https://github.com/EullerHenrique/api_pagamento_redis 
   - https://github.com/EullerHenrique/study_redis
  
