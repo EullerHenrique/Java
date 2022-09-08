@@ -48,6 +48,7 @@
   - https://github.com/EullerHenrique/study_kafka
   - https://github.com/EullerHenrique/ecommerce_Broker
   - https://github.com/EullerHenrique/ecommerce_Cluster
+  - https://github.com/EullerHenrique/api_pagamento_kafka_broker
 
 - ### KeyCloack
   - https://github.com/EullerHenrique/login
