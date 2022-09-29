@@ -48,7 +48,7 @@
   - https://github.com/EullerHenrique/study_kafka
   - https://github.com/EullerHenrique/ecommerce_Broker
   - https://github.com/EullerHenrique/ecommerce_Cluster
-  - https://github.com/EullerHenrique/kafka_email
+  - https://github.com/EullerHenrique/email_kafka
 
 - ### KeyCloack
   - https://github.com/EullerHenrique/login
