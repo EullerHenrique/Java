@@ -93,7 +93,7 @@ Obs: Em comparação aos projetos originais, adicionei diversos comentários exp
   
 - https://github.com/EullerHenrique/azure_key_vault
   
-## Java: Grpc
+## Java: Grpc/Mosquitto
 
 - https://github.com/EullerHenrique/mercado_livre
  
