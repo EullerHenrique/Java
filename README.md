@@ -1,5 +1,3 @@
-# JAVA
-
 ## Java: Start [POO1]
 
 - https://github.com/EullerHenrique/Banco
