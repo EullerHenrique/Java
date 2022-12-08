@@ -1,76 +1,101 @@
 # JAVA
 
-## Start [POO1]
+## Java: Start [POO1]
 
 - https://github.com/EullerHenrique/Banco
 
-## Padrões de projeto [POO2]
+## Java: Padrões de projeto [POO2]
 
 - https://github.com/EullerHenrique/Medieval-Futurista
 
-## Spring
+## Spring: Start
 
-- ### Start
-
-  - https://github.com/EullerHenrique/Clinica_Life
-
-- ### Bootcamp Everis New Talents #2 Java:
+- https://github.com/EullerHenrique/Clinica_Life
   
-   - https://github.com/EullerHenrique/Person_Api
-   - https://github.com/EullerHenrique/Beer_Stock
-
-  Obs: Em comparação aos projetos originais, adicionei diversos comentários explicativos para solidificar o meu aprendizado.
-
-- ### Multithread 
+## Spring: Bootcamp Everis New Talents #2 Java:
   
-  - https://github.com/EullerHenrique/server_4096_requests
+- https://github.com/EullerHenrique/Person_Api
+- https://github.com/EullerHenrique/Beer_Stock
 
- - ### PostgreSQL
+Obs: Em comparação aos projetos originais, adicionei diversos comentários explicativos para solidificar o meu aprendizado.
 
-    - https://github.com/EullerHenrique/BD1
-    - https://github.com/EullerHenrique/BD2
-    - https://github.com/EullerHenrique/api-ms-postgresql
+## Spring: Multithread 
+  
+- https://github.com/EullerHenrique/server_4096_requests
+
+## Study: PostgreSQL
+
+- https://github.com/EullerHenrique/BD1
+- https://github.com/EullerHenrique/BD2
+
+## Spring: PostgreSQL
+
+- https://github.com/EullerHenrique/api-ms-postgresql
    
-  - ### MongoDB
+## Study MongoDB
 
-    - https://github.com/EullerHenrique/study_mongodb
-    - https://github.com/EullerHenrique/api-ms-mongodb
+- https://github.com/EullerHenrique/study_mongodb
+
+## Study: MongoDB
+
+- https://github.com/EullerHenrique/api-ms-mongodb
   
-  - ### Docker
+## Study: Docker
    
-    - https://github.com/EullerHenrique/study_docker
+- https://github.com/EullerHenrique/study_docker
 
-- ### Teste Unitário
+## Spring: Teste Unitário
 
-  - https://github.com/EullerHenrique/api_pagamento
+- https://github.com/EullerHenrique/api_pagamento
 
-- ### Kafka
-  - https://github.com/EullerHenrique/study_kafka
-  - https://github.com/EullerHenrique/ecommerce_Broker
-  - https://github.com/EullerHenrique/ecommerce_Cluster
-  - https://github.com/EullerHenrique/email_kafka
+## Study: Kafka
 
-- ### KeyCloack
-  - https://github.com/EullerHenrique/login
+- https://github.com/EullerHenrique/study_kafka
 
-- ### STFP
-  - https://github.com/EullerHenrique/protocol-sftp
+## Java: Kafka
 
-- ### Apache Camel/SFTP
-  - https://github.com/EullerHenrique/apache-camel_sftp 
- 
-- ### Redis
-  - https://github.com/EullerHenrique/study_redis
-  - https://github.com/EullerHenrique/api_pagamento_redis_annotation
-  - https://github.com/EullerHenrique/api_pagamento_redis_template
-  - https://github.com/EullerHenrique/api_pagamento_redis_json
+- https://github.com/EullerHenrique/ecommerce_Broker
+- https://github.com/EullerHenrique/ecommerce_Cluster
+
+## Spring: Kafka
+
+- https://github.com/EullerHenrique/email_kafka
+
+## Spring: KeyCloack
   
- - ### Elastic Search
-  	- https://github.com/EullerHenrique/study_elastic_search
-    - https://github.com/EullerHenrique/api_pagamento_elastic_search
- 
- - ### Azure Key Vault
+- https://github.com/EullerHenrique/login
+
+## Spring: STFP
   
-    - https://github.com/EullerHenrique/azure_key_vault
+- https://github.com/EullerHenrique/protocol-sftp
+
+## Spring: Apache Camel/SFTP
   
+- https://github.com/EullerHenrique/apache-camel_sftp 
+
+##Study: Redis
+
+- https://github.com/EullerHenrique/study_redis
+
+## Spring: Redis
+  
+- https://github.com/EullerHenrique/api_pagamento_redis_annotation
+- https://github.com/EullerHenrique/api_pagamento_redis_template
+- https://github.com/EullerHenrique/api_pagamento_redis_json
+  
+## Study: Elastic Search
+  	
+- https://github.com/EullerHenrique/study_elastic_search
+
+## Spring: Elastic Search
+
+- https://github.com/EullerHenrique/api_pagamento_elastic_search
+
+## Spring: Azure Key Vault
+  
+- https://github.com/EullerHenrique/azure_key_vault
+  
+## Java: Grpc
+
+- https://github.com/EullerHenrique/mercado_livre
  
