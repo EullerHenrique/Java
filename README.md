@@ -34,7 +34,7 @@ Obs: Em comparação aos projetos originais, adicionei diversos comentários exp
 
 - https://github.com/EullerHenrique/study_mongodb
 
-## Study: MongoDB
+## Spring: MongoDB
 
 - https://github.com/EullerHenrique/api-ms-mongodb
   
