@@ -96,6 +96,10 @@ Obs: Em comparação aos projetos originais, adicionei diversos comentários exp
 ## Java: Grpc/Mosquitto
 
 - https://github.com/EullerHenrique/mercado_livre
+
+## Java: Grcp/Ratis
+
+- https://github.com/EullerHenrique/mercado_livre_v2
  
 ## Spring: Git Hub Actions
 
