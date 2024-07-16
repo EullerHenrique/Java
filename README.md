@@ -107,5 +107,5 @@ Obs: Em comparação aos projetos originais, adicionei diversos comentários exp
 
 ## Java: Streams
 
-- https://github.com/EullerHenrique/Programacao-Funcional--Java
+- https://github.com/EullerHenrique/Programacao_Funcional__Java
 
