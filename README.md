@@ -44,7 +44,7 @@ Obs: Em comparação aos projetos originais, adicionei diversos comentários exp
 
 ## Spring: Teste Unitário
 
-- https://github.com/EullerHenrique/api_pagamento
+- https://github.com/EullerHenrique/api_pagamento_2022
 
 ## Study: Kafka
 
@@ -108,4 +108,9 @@ Obs: Em comparação aos projetos originais, adicionei diversos comentários exp
 ## Java: Streams
 
 - https://github.com/EullerHenrique/Programacao_Funcional__Java
+
+## Srping: Ddd
+
+- https://github.com/EullerHenrique/api_pagamento_2024
+
 
