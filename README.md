@@ -107,7 +107,7 @@ Obs: Em comparação aos projetos originais, adicionei diversos comentários exp
 
 ## Java: Arquitetura de Microsserviços
 
-- https://github.com/EullerHenrique/tcc
+- https://github.com/EullerHenrique/TCC
 
 ## Java: Streams
 
