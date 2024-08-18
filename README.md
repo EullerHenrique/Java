@@ -117,4 +117,11 @@ Obs: Em comparação aos projetos originais, adicionei diversos comentários exp
 
 - https://github.com/EullerHenrique/api_pagamento_2024
 
+## Spring: Web Flux/Postgre SQL
+
+- [Em breve]
+
+## Spring: Web Flux/Mongo DB
+
+- [Em breve]
 
