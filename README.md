@@ -121,3 +121,24 @@ Obs: Em comparação aos projetos originais, adicionei diversos comentários exp
 
 - https://github.com/EullerHenrique/api_pagamento_web_flux_mongo_db_2024
 
+## Spring: AI
+
+- [Em breve]
+
+## Spring: Security
+
+- [Em breve]
+
+## Spring: Native
+
+- [Em breve]
+
+## Spring: GraphQl
+
+- [Em breve]
+
+## Spring: Cloud
+
+- [Em breve]
+
+
