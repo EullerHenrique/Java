@@ -121,6 +121,10 @@ Obs: Em comparação aos projetos originais, adicionei diversos comentários exp
 
 - https://github.com/EullerHenrique/api_pagamento_web_flux_mongo_db_2024
 
+## Spring: GraphQl
+
+- [Em breve]
+
 ## Spring: Actuator
 
 - [Em breve]
@@ -138,10 +142,6 @@ Obs: Em comparação aos projetos originais, adicionei diversos comentários exp
 - [Em breve]
 
 ## Spring: Native
-
-- [Em breve]
-
-## Spring: GraphQl
 
 - [Em breve]
 
