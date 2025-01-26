@@ -126,39 +126,27 @@ Obs: Em comparação aos projetos originais, adicionei diversos comentários exp
 - https://github.com/EullerHenrique/api_pagamento_graphql_2025
 
 ## Spring: Actuator
-
-- [Em breve]
-
 ## Spring: MVC
-
-- [Em breve]
-
 ## Spring: AI
-
-- [Em breve]
-
 ## Spring: Security
-
-- [Em breve]
-
 ## Spring: Native
-
-- [Em breve]
-
 ## Spring: Cloud
-
-- [Em breve]
-
+## Spring: Cloud Data Flow
 ## Spring: Batch
-
-- [Em breve]
-
 ## Spring: Ampq
-
-- [Em breve]
-
 ## Spring: Session
-
+## Spring: HATEOS
+## Spring: Modulith
+## Spring: Modulith
+## Spring: CLI
+## Spring: CredHub
+## Spring: Flo
+## Spring: LDAP
+## Spring: Shell
+## Spring: Statemachine
+## Spring: Vault
+## Spring: Apache Pulsar
+## Spring: Web Services
 - [Em breve]
 
 
