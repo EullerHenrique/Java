@@ -123,7 +123,6 @@ Obs: Em comparação aos projetos originais, adicionei diversos comentários exp
 
 ## Spring: GraphQl
 
-- [Em desenvolvimento]
 - https://github.com/EullerHenrique/api_pagamento_graphql_2025
 
 ## Spring: Actuator
