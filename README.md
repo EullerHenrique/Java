@@ -125,6 +125,10 @@ Obs: Em comparação aos projetos originais, adicionei diversos comentários exp
 
 - https://github.com/EullerHenrique/api_pagamento_graphql_2025
 
+## Spring: Batch
+
+- https://github.com/EullerHenrique/api_pagamento_spring_batch_2025
+
 ## Spring: Actuator
 ## Spring: MVC
 ## Spring: AI
@@ -132,7 +136,6 @@ Obs: Em comparação aos projetos originais, adicionei diversos comentários exp
 ## Spring: Native
 ## Spring: Cloud
 ## Spring: Cloud Data Flow
-## Spring: Batch
 ## Spring: Ampq
 ## Spring: Session
 ## Spring: HATEOS
