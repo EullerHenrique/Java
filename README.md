@@ -127,6 +127,7 @@ Obs: Em comparação aos projetos originais, adicionei diversos comentários exp
 
 ## Spring: Batch
 
+[Em desenvolvimento]
 - https://github.com/EullerHenrique/api_pagamento_spring_batch_2025
 
 ## Spring: Actuator
