@@ -130,17 +130,16 @@ Obs: Em comparação aos projetos originais, adicionei diversos comentários exp
 [Em desenvolvimento]
 - https://github.com/EullerHenrique/api_pagamento_spring_batch_2025
 
+## Spring: AI
+## Spring: Ampq
+## Spring: HATEOS
 ## Spring: Actuator
 ## Spring: MVC
-## Spring: AI
 ## Spring: Security
 ## Spring: Native
 ## Spring: Cloud
 ## Spring: Cloud Data Flow
-## Spring: Ampq
 ## Spring: Session
-## Spring: HATEOS
-## Spring: Modulith
 ## Spring: Modulith
 ## Spring: CLI
 ## Spring: CredHub
